@@ -57,11 +57,6 @@ Ensure you have the following installed:
 - Implement advanced filtering options like dietary preferences.
 - Support for multiple languages to enhance accessibility.
 
-## Screenshots
-
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for feedback.
 
