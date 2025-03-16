@@ -25,8 +25,8 @@ Ensure you have the following installed:
 - Dart (comes with Flutter)
 
 ### Screenshots 
-![shot1](https://github.com/DHARSHANKONO/chiefRek/blob/18f54747535d1bae0cfff1a04c35f75c708b9c0a/Screenshot%202024-10-18%20211816.png?raw=true) 
-![shot2](Screenshot 2024-10-18 211848.png?raw=true)
+![shot1](https://github.com/DHARSHANKONO/chiefRek/blob/18f54747535d1bae0cfff1a04c35f75c708b9c0a/Screenshot%202024-10-18%20211816.png) 
+![shot2](https://github.com/DHARSHANKONO/chiefRek/blob/4f847a4e41dd02be5eef87fc90266c57dac3ecef/Screenshot%202024-10-18%20211848.png)
 
 ### Steps to Install
 1. Clone the repository:
