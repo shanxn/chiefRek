@@ -24,6 +24,10 @@ Ensure you have the following installed:
 - Flutter SDK
 - Dart (comes with Flutter)
 
+### Screenshots 
+![shot1](Screenshot 2024-10-18 211816.png) 
+![shot2](Screenshot 2024-10-18 211848.png)
+
 ### Steps to Install
 1. Clone the repository:
    ```bash
