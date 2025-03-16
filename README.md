@@ -25,7 +25,7 @@ Ensure you have the following installed:
 - Dart (comes with Flutter)
 
 ### Screenshots 
-![shot1](Screenshot 2024-10-18 211816.png?raw=true) 
+![shot1](https://github.com/DHARSHANKONO/chiefRek/blob/18f54747535d1bae0cfff1a04c35f75c708b9c0a/Screenshot%202024-10-18%20211816.png?raw=true) 
 ![shot2](Screenshot 2024-10-18 211848.png?raw=true)
 
 ### Steps to Install
